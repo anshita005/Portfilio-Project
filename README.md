@@ -13,5 +13,7 @@ Responsive Design: Ensures that the portfolio is accessible and visually appeali
 
 # Technologies Used
 HTML: Used for creating the structure and content of the portfolio web pages.
+
 CSS: Utilized for styling the portfolio and providing visual enhancements.
+
 JavaScript: Employed for adding interactivity, animations, and dynamic behavior to the portfolio.
